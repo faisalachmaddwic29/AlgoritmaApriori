@@ -1,0 +1,13 @@
+Susu Putih,Floridina,Kopi Kapal Api
+Susu Putih,Kopi Kapal Api,Coca-Cola
+Susu Putih,Kopi Kapal Api,Rokok Jarum
+Susu Putih,,
+Floridina,Kopi Kapal Api,Coca-Cola
+Floridina,Kopi Kapal Api,Rokok Jarum
+Floridina,,
+Coca-Cola,Kopi Kapal Api,Rokok Jarum
+Kopi Kapal Api,Rokok Jarum,
+Rokok Jarum,,
+Aqua Galon,Rokok Jarum,Tisu Basah
+Dunhill,Rokok Jarum,Tisu Basah
+Gelas looking,Tisu Basah,Dunhill
